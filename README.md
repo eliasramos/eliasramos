@@ -1,15 +1,13 @@
 # 👋 Elias Ramos
 
-**Senior Software Engineer • CTO na [Petiser](https://petiser.com.br) • Founder na [Cattive](https://cattive.me)**  
-Especialista em automação, arquitetura de sistemas e integrações orientadas a dados.
+**Senior Software Engineer • CTO at [Petiser](https://petiser.com.br) • Founder at [Cattive](https://cattive.me)**  
+Specialist in automation, system architecture, and data-driven integrations.
 
+### 🧭 about me
+I design and implement systems that connect ERPs, CRMs, and data layers to transform operations into **intelligent and resilient processes**.  
+I focus on autonomy, consistency, and architectural simplicity.
 
-### 🧭 sobre mim
-Desenho e implemento sistemas que conectam ERPs, CRMs e camadas de dados para transformar operações em **processos inteligentes e resilientes**.  
-Foco em autonomia, consistência e simplicidade arquitetural.
-
-> “Automatize o que é repetitivo, otimize o que é essencial e entenda o que é humano.”
-
+> “Automate what’s repetitive, optimize what’s essential, and understand what’s human.”
 
 <p align="center">
   
