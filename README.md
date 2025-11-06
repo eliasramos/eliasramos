@@ -1,6 +1,6 @@
 # 👋 Elias Ramos
 
-**Senior Software Engineer • CTO at [Petiser](https://petiser.com.br) • Founder at [Cattive](https://cattive.me)**  
+**CTO at [Petiser](https://petiser.com.br) • Founder at [Cattive](https://cattive.me)**  
 Specialist in automation, system architecture, and data-driven integrations.
 
 ### 🧭 about me
